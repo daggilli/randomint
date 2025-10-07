@@ -1,0 +1,6 @@
+*.o
+*.d
+.clang-format
+build
+.vscode
+.DS_Store
